@@ -2,6 +2,7 @@
 Analysis of MercadoLibre's financial and user data in order to maximize growth potential.
 
 # Technologies
+![](https://github.com/JEKlektik/Mod_10/blob/d209b2701c0c99d86c27f50efd88c413cec0e957/Screen%20Shot%202022-05-22%20at%2012.21.30%20PM.png)
 
 # Instructions
 Step 1: Find unusual patterns in hourly Google search traffic
